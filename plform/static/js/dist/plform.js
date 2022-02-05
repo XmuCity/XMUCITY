@@ -1,4 +1,4 @@
-class Plform(){
+class Plform{
     constructor(id){
 
     }
